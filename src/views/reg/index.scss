@@ -1,0 +1,9 @@
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    .ant-form {
+        width: 500px;
+    }
+}
